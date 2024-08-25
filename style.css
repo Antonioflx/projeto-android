@@ -52,6 +52,8 @@ nav > a{
 
 nav > a:hover{
     background-color: #1A5C38;
+    border-radius: 3px;
+    transition-duration: 0.5s;
 }
     
 main{
